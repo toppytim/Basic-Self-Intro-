@@ -1,2 +1,2 @@
-# Basic-Self-Intro-
+# Setting up first repository 
 Some python basics 
